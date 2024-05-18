@@ -1,0 +1,21 @@
+{
+  "name": "demyst-assignment",
+  "version": "1.0.0",
+  "description": "Adil's submission for Demyst Onboarding Assignment",
+  "main": "./bin/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "commander": "^12.0.0"
+  },
+  "bin": {
+    "todos": "./bin/index.js"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
